@@ -1,2 +1,6 @@
-# forum
-Bulletin board as prod ware
+
+# Forum (bulletin board) as prod ware for any SKY application
+
+To do
+
+Status: _under development_
